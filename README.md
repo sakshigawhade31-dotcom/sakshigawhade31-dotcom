@@ -3,6 +3,7 @@
 🎓 B.Tech AI & Data Science Student
 
 I'm currently learning and exploring Artificial Intelligence,
+
 Data Science, Machine Learning, Data Analytics and Generative AI.
 
 ## 🔗  🎯 What I Do
