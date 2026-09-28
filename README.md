@@ -34,17 +34,26 @@ Data Science, Machine Learning, Data Analytics and Generative AI.
 
 ## 🌱 Currently Exploring
 Python & DSA
+
 SQL
+
 Data Analytics
+
 Machine Learning
+
 Generative AI
+
 LLMs & RAG
 
 ## 📌 Projects
 🏏 IPL Prediction using Machine Learning
+
 🩺 Diabetes Prediction using Machine Learning
+
 🌱 Smart Krushi Sallagar
+
 🤖 LLM / RAG Projects
+
 🤖 AI Chatbot using Ml Model
 
 ## 🔗 🤝 Let's Connect
