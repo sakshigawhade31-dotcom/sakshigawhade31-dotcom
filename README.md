@@ -16,10 +16,15 @@ Data Science, Machine Learning, Data Analytics and Generative AI.
 🔗🛠️ What I Work With
 
 | Languages | Python, C, C++ |
+
 | Databases | SQL, MySQL, Excel |
+
 | Data Science | NumPy, Pandas, Matplotlib |
+
 | AI / ML | Machine Learning, AI, Deep Learning Basics |
+
 | GenAI | LLMs, RAG, LangChain |
+
 | Tools | Git, GitHub, VS Code, Jupyter Notebook, Google Colab |
 
 🌱 Currently Exploring
@@ -41,4 +46,5 @@ LLMs & RAG
 I'm always open to conversations about
 projects, ideas, learning, and opportunities.
 
-💼 LinkedIn 📧 Email:sakshigawhade31@gmail.com
+💼 LinkedIn
+📧 Email:sakshigawhade31@gmail.com
